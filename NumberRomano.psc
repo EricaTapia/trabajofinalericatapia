@@ -100,21 +100,21 @@
 			Escribir " Toque una tecla para continuar ";
 			Esperar Tecla;
 		Mientras Que !termina
-		Escribir " Gracias por jugar NumerosRomanos.";
-		Escribir "                 ¶¶_    ¶¶ "
-		Escribir "     ¶¶¶¶¶¶       ¶¶   ¶¶ "
-		Escribir "    ¶¶¶¶¶¶¶¶¶      ¶  ¶ "
-		Escribir "   ¶¶¶¶¶¶¶¶¶¶¶¶    ¶_¶ "
-		Escribir "  ¶¶¶______¶¶¶¶   ¶ * * ¶¶¶¶¶"
-		Escribir "  ¶¶¶_________¶¶_¶__¶¶¶¶¶¶¶¶¶¶ "
-		Escribir "  ¶¶¶_________¶¶__¶¶¶¶¶¶¶¶¶¶¶¶ "
-		Escribir "  ¶¶¶_________¶¶¶¶¶¶______¶¶¶¶ "
-		Escribir "   ¶¶_________¶¶¶_________ ¶¶¶ "
-		Escribir"   ¶¶________¶¶¶__________¶¶¶ "
-		Escribir"    ¶¶______¶¶¶__________¶¶¶ "
-		Escribir"    ¶¶¶___¶¶¶________ ¶¶¶¶ "
-		Escribir"   ¶¶¶¶¶¶_¶   ¶   ¶¶¶¶¶¶ "
-		Escribir" ¶¶¶¶_ ¶¶¶      ¶¶¶ ¶¶¶¶ "
-		Escribir" ¶¶¶¶¶¶¶¶        ¶¶¶¶¶¶¶¶¶ "
-        Escribir "  ¶¶¶¶¶            ¶¶¶¶¶¶ "
+		Escribir " Gracias por jugar NumberRomanos.";
+		Escribir "                 Â¶Â¶_    Â¶Â¶ "
+		Escribir "     Â¶Â¶Â¶Â¶Â¶Â¶       Â¶Â¶   Â¶Â¶ "
+		Escribir "    Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶      Â¶  Â¶ "
+		Escribir "   Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶    Â¶_Â¶ "
+		Escribir "  Â¶Â¶Â¶______Â¶Â¶Â¶Â¶   Â¶ * * Â¶Â¶Â¶Â¶Â¶"
+		Escribir "  Â¶Â¶Â¶_________Â¶Â¶_Â¶__Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶ "
+		Escribir "  Â¶Â¶Â¶_________Â¶Â¶__Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶ "
+		Escribir "  Â¶Â¶Â¶_________Â¶Â¶Â¶Â¶Â¶Â¶______Â¶Â¶Â¶Â¶ "
+		Escribir "   Â¶Â¶_________Â¶Â¶Â¶_________ Â¶Â¶Â¶ "
+		Escribir"   Â¶Â¶________Â¶Â¶Â¶__________Â¶Â¶Â¶ "
+		Escribir"    Â¶Â¶______Â¶Â¶Â¶__________Â¶Â¶Â¶ "
+		Escribir"    Â¶Â¶Â¶___Â¶Â¶Â¶________ Â¶Â¶Â¶Â¶ "
+		Escribir"   Â¶Â¶Â¶Â¶Â¶Â¶_Â¶   Â¶   Â¶Â¶Â¶Â¶Â¶Â¶ "
+		Escribir" Â¶Â¶Â¶Â¶_ Â¶Â¶Â¶      Â¶Â¶Â¶ Â¶Â¶Â¶Â¶ "
+		Escribir" Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶        Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶ "
+        Escribir "  Â¶Â¶Â¶Â¶Â¶            Â¶Â¶Â¶Â¶Â¶Â¶ "
 FinAlgoritmo
